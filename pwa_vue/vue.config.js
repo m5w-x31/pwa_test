@@ -5,7 +5,7 @@ module.exports = defineConfig({
 module.exports = {
   publicPath: "./",
   assetsDir: "",
-  outputDir: "docs",
+  outputDir: "../docs",
   devServer: {
     host: "localhost"
   }
